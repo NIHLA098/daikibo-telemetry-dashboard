@@ -63,42 +63,19 @@ The analysis was conducted using *Tableau Desktop*.
 
 ---
 
-## 📸 Screenshot
-
 
 ---
 
 ## 📂 Repository Contents
 
 - daikibo-telemetry-data.json – Raw telemetry data
-- dashboard_screenshot.png – Screenshot of the Tableau dashboard
+- daikibo-telemetry-dashboardg.png – Screenshot of the Tableau dashboard
 - README.md – This documentation
 
 ---
 
-## 🚀 How to Reproduce This Analysis
 
-1. *Install Tableau Desktop*
-   - Download and install from [Tableau's website](https://www.tableau.com/).
-
-2. *Import Data*
-   - Connect to the JSON file: daikibo-telemetry-data.json.
-
-3. *Create Calculated Field*
-   - Go to Analysis > Create Calculated Field.
-   - Name it Unhealthy and use the formula provided above.
-
-4. *Build Visualizations*
-   - Bar Chart 1: Down Time per Factory
-   - Bar Chart 2: Down Time per Device Type
-
-5. *Create Dashboard*
-   - Drag both sheets onto the dashboard.
-   - Configure the factory chart as a filter.
-
-6. *Export*
-   - Take a screenshot of the dashboard with the factory selected.
-
+  
 ---
 
 ## ✨ Key Insights
